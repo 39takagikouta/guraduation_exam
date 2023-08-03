@@ -67,3 +67,7 @@
 ### 画面遷移図のリンク
 
 https://www.figma.com/file/Qqmj3T1ykxtfdO1MwZ4tO4/guraduation_exma?type=design&node-id=0%3A1&mode=design&t=6WwC2UR7mw0NlBWX-1
+
+### ER 図
+
+![Alt text](image-1.png)
