@@ -70,4 +70,4 @@ https://www.figma.com/file/Qqmj3T1ykxtfdO1MwZ4tO4/guraduation_exma?type=design&n
 
 ### ER 図
 
-![Alt text](image-1.png)
+![Alt text](image-2.png)
